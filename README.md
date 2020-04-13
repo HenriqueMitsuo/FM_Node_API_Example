@@ -1,4 +1,4 @@
-# API Design in NODE v3
+# API Design in NODE v3 NOTES
 
 ## LIBs used
 
@@ -14,6 +14,10 @@
 - MORGAN
 - VALIDATOR
 - NODEMON
+
+## BASED ON
+
+- https://github.com/FrontendMasters/api-design-node-v3
 
 ## OVERVIEW
 
